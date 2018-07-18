@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TestMain2:jar">
+    <output-path>D:/IDEA_war</output-path>
+    <root id="archive" name="TestMain2.jar">
+      <element id="module-output" name="TestMain2" />
+    </root>
+  </artifact>
+</component>
